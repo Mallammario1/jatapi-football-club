@@ -9,13 +9,26 @@
     We are dedicated to developing young talents, promoting teamwork, discipline, and excellence through football.
   </p>
 </section><section>
-  <h2>Players Gallery</h2>
-  <div class="grid">
-    <!-- COPY THIS CARD TO ADD MORE PLAYERS -->
-    <div class="card">
-      <img src="player1.jpg" </div> <img src="player2.jpg" </div> <img src="player3.jpg" </div> <img src="Player4.jpg"
-  alt="Player Name">
-      <h3>Player Name</h3>
+  
+  <a href="https://github.com/mallammario1/jatapi-football-club/tree/Jatapi-FC-Players" target="_blank"> Player's Names and Positions 
+  </a>
+  <div></div>
+
+  <a href="https://github.com/mallammario1/jatapi-football-club/tree/Jatapi-FC-Players" target="_blank">
+  Team's Gallery (Photos)</a> 
+<div></div> <div></div>
+
+  <a href="https://github.com/mallammario1/jatapi-football-club/tree/Jatapi-FC-Players" target="_blank">Jatapi Fc 2026 Ramadan Competition 
+  
+  </a>
+  <div></div>
+
+  <a href="https://github.com/mallammario1/jatapi-football-club/tree/Jatapi-FC-Players" target="_blank">
+  Team's 
+</a>
+
+  
+ <h3>Player Name</h3>
       <p>Positions</p>
     </div>
   </div>
@@ -29,7 +42,7 @@
     </div>
   </div>
 </section><section>
-  <h2>Matches & Results</h2>
+  <h2>Matches Results</h2>
   <div class="matches">
     <table>
       <tr>
